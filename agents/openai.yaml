@@ -1,0 +1,4 @@
+interface:
+  display_name: "tony"
+  short_description: "结合本人照片分析头发条件、推荐可行发型、生成试发图并整理理发师沟通卡"
+  default_prompt: "请用 $tony 分析我的照片，结合发质和打理习惯推荐发型，按需要生成本人试发图与理发师沟通卡。"
